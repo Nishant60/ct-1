@@ -1,3 +1,10 @@
+/*
+Nishant Fogat
+2010990506
+set 04
+q1
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
